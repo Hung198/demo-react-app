@@ -16,7 +16,7 @@ const UserList = (props) => {
     }, []);
     return (
         <div className="userList">
-            <h1> Users List </h1>
+            <h1> Users List Demo</h1>
             <table>
                 <thead>
                     <tr>
